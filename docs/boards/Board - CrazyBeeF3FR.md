@@ -2,9 +2,9 @@
 ![CrazyBee F3 FR front](images/CrazyBeeF3FRtop.jpg)
 ![CrazyBee F3 FR back](images/CrazyBeeF3FRbottom.jpg)
 
-## Description
-CrazyBee F3 flight controller is a Highly integrated board for 1S Whoop brushless racing drone.
-It might be the world first Tiny whoop size brushless flight controller which integrated Receiver/4in1 ESC/OSD/Current Meter.
+## 説明
+CrazyBee F3 フライトコントローラーは、1S専用TinyWhoop向けブラシレスレーシングドローン用の高集積FCボードです。
+世界で初めて、4in1タイプ受信機とESC/OSD/電流計を内蔵した小型ブラシレスフライトコントローラーと言われています。
 
 ## MCU, Sensors and Features
 
