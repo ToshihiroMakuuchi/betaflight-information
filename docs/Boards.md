@@ -2,16 +2,19 @@
 
 現在のターゲットは、STM32F303 および STM32F4 シリーズプロセッサを使用するフライトコントローラーハードウェアを対象としています。コアロジックはハードウェアドライバから分離されており、他のプロセッサへの移植が可能です。
 
-Betaflight の現行のフルバージョンの利用をご希望の場合は、256KB のフラッシュメモリを搭載した STM32F4 および STM32F7 ベースのFCボードをお勧めします。F4、F7プロセッサは、より高速でUSBサポートを内蔵しており、追加のデバイスを必要とせずに、より多くのハードウェアをサポートします。
+Betaflight の現行バージョンの利用をご希望の場合は、256KB のフラッシュメモリを搭載した STM32 F4 および STM32 F7 ベースのFCボードをお勧めします。F4、F7プロセッサは、より高速でUSBサポートを内蔵しており、追加のデバイスを必要とせずに、より多くのハードウェアをサポートします。
 
 推奨されるボードのコアセットは以下の通りです：
 
-* [Seriously Pro SPRacingF3Mini](boards/Board%20-%20SPRacingF3MINI.md)
-* [Seriously Pro SPRacingF3](boards/Board%20-%20SPRacingF3.md)
-* [Seriously Pro SPRacingF3EVO](boards/Board%20-%20SPRacingF3EVO.md)
+* [CrazyBee F4 FR Pro](boards/Board%20-%20CrazyBeeF4FRPro.md)
+* [CrazyBee F4 FS Pro](boards/Board%20-%20CrazyBeeF4FSPro.md)
+* [CrazyBee F4 DX Pro](boards/Board%20-%20CrazyBeeF4DXPro.md)
 
 
 レガシーボードのコアセットは以下の通りです：
+
+* [CrazyBee F3 FR Pro](boards/Board%20-%20CrazyBeeF3FR.md)
+* [CrazyBee F3 FS Pro](boards/Board%20-%20CrazyBeeF3FS.md)
 
 * [Seriously Pro SPRacingF3Mini](boards/Board%20-%20SPRacingF3MINI.md)
 * [Seriously Pro SPRacingF3](boards/Board%20-%20SPRacingF3.md)
