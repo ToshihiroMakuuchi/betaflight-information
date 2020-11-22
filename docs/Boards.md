@@ -16,6 +16,7 @@ Betaflight の現行のフルバージョンの利用をご希望の場合は、
 * [Seriously Pro SPRacingF3Mini](boards/Board%20-%20SPRacingF3MINI.md)
 * [Seriously Pro SPRacingF3](boards/Board%20-%20SPRacingF3.md)
 * [Seriously Pro SPRacingF3EVO](boards/Board%20-%20SPRacingF3EVO.md)
+* [Seriously Pro SPRacingF3NEO](boards/Board%20-%20SPRacingF3NEO.md)
 
 
 備考: CPU の EEPROM 容量が 256KB 未満のボードを使用している場合、使用可能な機能が制限される可能性があります。
