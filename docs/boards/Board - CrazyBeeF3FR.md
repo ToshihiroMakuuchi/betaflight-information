@@ -12,18 +12,18 @@ CrazyBee F3 フライトコントローラーは、1S専用TinyWhoop向けブラ
 
   - MCU: STM32F303CCT6
   - IMU: MPU6000 (SPI) 
-  - IMU Interrupt: yes
-  - Virtual COMポート: yes
-  - OSD: Betaflight標準 OSD
-  - バッテリー電圧センサー: yes
-  - Integrated Voltage Regulator: yes, booster, 5V/800mA
-  - Integrated Current sensor：Max 14A, could be modified to 28A by replace resistor
-  - Integrated Frsky compatible receiver: Frsky_D(D8) and Frsky_X(D16) switchable mode
-  - Buttons: 1 (Receiver bind button)
-  - Integrated 4x Blheli_s ESC: Max 5A per ESC
-  - ESC Connector: 3-pin, PicoBlade 1.25mm pitch
-  - Beeper output: 2-pin, soldering pad
-  - 4 Rx Indicating LEDs: 2 x red  and  2 x white
+  - IMU割込: 有効
+  - 仮想COMポート(VCP): 有り
+  - OSD: Betaflight標準OSD対応
+  - バッテリー電圧センサー: 有り
+  - オンボード電圧レギュレーター: 有効, booster, 5V/800mA
+  - オンボード現行センサー：最大 14A (抵抗変更改造により28Aまでアップ可能)
+  - オンボード受信機: Frsky/S-FHSS互換受信機 (CC2500チップ) ※Frsky_D(D8) Frsky_X(D16) S-FHSS(BF4.0.X以降で対応)
+  - Buttons: 1 (受信機 Bindボタン) ※Bootボタンはありません
+  - オンボードESC: 4x Blheli_s Max 5A per ESC
+  - ESCコネクタ: 3-pin, PicoBlade 1.25mm pitch
+  - ブザー出力: 2-pin, soldering pad
+  - オンボードLED: 4LED (受信機用 赤x2 白x2)
 
 ## リソースマッピング
 
@@ -56,7 +56,7 @@ CrazyBee F3 フライトコントローラーは、1S専用TinyWhoop向けブラ
 | UART3 RX                   | PB11 |       |     |             |      will add pinout soon        |
 
 
-## Manufacturers and Distributors
+## メーカー・販売店
 
 https://www.banggood.com/Racerstar-Crazybee-F3-Flight-Controller-4-IN-1-5A-1S-Blheli_S-ESC-Compatible-Frsky-D8-Receiver-p-1262972.html
 
