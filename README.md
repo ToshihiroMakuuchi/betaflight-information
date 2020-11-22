@@ -1,2 +1,2 @@
-# betaflight-infomation
+# betaflight-information
 このリポジトリはbetaflightに関する情報を収集しています。
