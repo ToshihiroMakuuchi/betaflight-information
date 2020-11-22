@@ -69,10 +69,13 @@ https://www.banggood.com/Racerstar-Crazybee-F3-Flight-Controller-4-IN-1-5A-1S-Bl
  - The board specifications claim DSHOT600-ready, but due to the use of a type L (BB1 24MHz) ESC, only DSHOT300 is reliably supported, although DSHOT600 seems to be working for quite a few people. But just how clean that ESC control signal is when using DSHOT600, is untested. For a discussion on this, see https://www.rcgroups.com/forums/showthread.php?3036325-Racerstar-Crazybee-F3-Ultimate-Micro-AIO-FC%21-1S-5A-BlheliS-Frsky-Flysky-OSD/page3 .
 - The factory default GYRO / PID config is 8KHz / 2KHz . There are reports that this may lead to possible instability and 4KHz / 4KHz is recommended.
 
-Specific information for the factory supplied Betaflight 3.3.0 version:
 
-- The DSHOT beeper function does not work.
-- When turtle mode ("Flip over after Crash") is activated, the FC will only arm if the failsafe timeout is 1s (10 * 0.1s) or more. If the timeout is set lower than that, you may see the motors shortly try to spin up and then stop, and then the quad will not be armed. Rumour has it that this is fixed in BF 3.4 .
+Betaflight 3.3.X(工場出荷時)の具体的な情報：
+
+- DSHOTブザー機能は機能しません。
+- タートルモード(Flip over after Crash)が有効な場合、FCボードはフェイルセーフのタイムアウトが1s (10 * 0.1s) 以上の場合にのみ作動します。タイムアウトが1s以下に設定されている場合、モーターがすぐにスピンアップして停止する状態が確認され、その後、機体ははアームできなくなります。これの問題は、BF3.4以降で修正されました。
+- BetaflightはF3チップのサポートをBF4.0.6にて終了しました。そのため、BF4.0.6を採用することを推奨致します。
+
 
 FRSKY バージョン:
 
