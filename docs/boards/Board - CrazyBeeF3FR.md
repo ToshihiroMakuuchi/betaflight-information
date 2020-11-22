@@ -82,6 +82,6 @@ Basic telemetry information like RSSI and battery voltage will be sent even when
 - On FrSky X, the TELEMETRY feature causes hard lockups due to a bug in the telemetry generation code.
 
 
-## Other Resources
-   User Manual: http://img.banggood.com/file/products/20180209021414Crazybeef3.pdf
+## その他の情報
+   ユーザマニュアル: http://img.banggood.com/file/products/20180209021414Crazybeef3.pdf
 
