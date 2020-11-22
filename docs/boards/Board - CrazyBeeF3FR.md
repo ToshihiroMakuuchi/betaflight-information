@@ -74,12 +74,14 @@ Specific information for the factory supplied Betaflight 3.3.0 version:
 - The DSHOT beeper function does not work.
 - When turtle mode ("Flip over after Crash") is activated, the FC will only arm if the failsafe timeout is 1s (10 * 0.1s) or more. If the timeout is set lower than that, you may see the motors shortly try to spin up and then stop, and then the quad will not be armed. Rumour has it that this is fixed in BF 3.4 .
 
-FRSKY Version:
-- To bind to your Taranis, you need to be running the non-eu OpenTX version, which allows you to use the required D8 setting to bind to the RX. The factory default BF receiver mode is FRSKY_X, so remember to configure this if needed.
-- FrSky X (8 / 16 channels) and FrSky D (8 channels) work both reliably, including in combination with crash flip / Dshot beacon, as long as the TELEMETRY feature is disabled;
-Basic telemetry information like RSSI and battery voltage will be sent even when the TELEMETRY feature is disabled;
-- On FrSky D, the TELEMETRY feature causes occasional dropouts, depending on how many sensors (BARO, GPS, ...) are enabled, probably due to a timing overrun;
-- On FrSky X, the TELEMETRY feature causes hard lockups due to a bug in the telemetry generation code.
+FRSKY バージョン:
+
+- FrSky送信機(Taranisシリーズ)にバインドするためには、non-eu OpenTXバージョンを適用している必要があります。また工場出荷時のBetaflightの受信モードは『FRSKY_X』の場合が多いので、必要に応じて忘れずに設定してください。
+- FrSky_X(8/16ch)、FrSky_D(8ch)はテレメトリー機能を無効している場合においては、Crash flip / Dshotビーコンとの組み合わせも含め、信頼性の高い動作が確認されています。テレメトリー機能を無効にしても、RSSIやバッテリー電圧などの基本的なテレメトリー情報はOSDに送信されます。
+- FrSky_Dでは、テレメトリー機能は、センサーの数(BARO、GPS、...)に応じて時折ドロップアウトを引き起こし、おそらくタイミングオーバーランをしてしまいます。(BF4.0.6にてバグフィクスされました)
+- FrSky Xでは、テレメトリー機能は、テレメトリー生成コードのバグのためにハードロックアップを引き起こします。(BF4.0.6にてバグフィクスされました)
+
+www.DeepL.com/Translator（無料版）で翻訳しました。
 
 
 ## その他の情報
