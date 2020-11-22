@@ -15,7 +15,6 @@ Betaflight の現行バージョンの利用をご希望の場合は、256KB の
 
 * [CrazyBee F3 FR Pro](boards/Board%20-%20CrazyBeeF3FR.md)
 * [CrazyBee F3 FS Pro](boards/Board%20-%20CrazyBeeF3FS.md)
-
 * [Seriously Pro SPRacingF3Mini](boards/Board%20-%20SPRacingF3MINI.md)
 * [Seriously Pro SPRacingF3](boards/Board%20-%20SPRacingF3.md)
 * [Seriously Pro SPRacingF3EVO](boards/Board%20-%20SPRacingF3EVO.md)
