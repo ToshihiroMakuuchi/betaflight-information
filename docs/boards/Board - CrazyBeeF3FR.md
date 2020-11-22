@@ -13,7 +13,7 @@ CrazyBee F3 フライトコントローラーは、1S専用TinyWhoop向けブラ
   - MCU: STM32F303CCT6
   - IMU: MPU6000 (SPI) 
   - IMU Interrupt: yes
-  - VCP: yes
+  - Virtual COM Port: yes
   - OSD: Betaflight OSD
   - Battery Voltage Sensor: yes
   - Integrated Voltage Regulator: yes, booster, 5V/800mA
