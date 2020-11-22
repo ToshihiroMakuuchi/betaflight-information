@@ -60,14 +60,14 @@ CrazyBee F3 フライトコントローラーは、1S専用TinyWhoop向けブラ
 
 https://www.banggood.com/Racerstar-Crazybee-F3-Flight-Controller-4-IN-1-5A-1S-Blheli_S-ESC-Compatible-Frsky-D8-Receiver-p-1262972.html
 
-## デザイナー
+## デザイナー情報
 
-## メンテナー (管理者)
+## 管理者情報
 
 ## FAQ と周知の問題
 
- - The board specifications claim DSHOT600-ready, but due to the use of a type L (BB1 24MHz) ESC, only DSHOT300 is reliably supported, although DSHOT600 seems to be working for quite a few people. But just how clean that ESC control signal is when using DSHOT600, is untested. For a discussion on this, see https://www.rcgroups.com/forums/showthread.php?3036325-Racerstar-Crazybee-F3-Ultimate-Micro-AIO-FC%21-1S-5A-BlheliS-Frsky-Flysky-OSD/page3 .
-- The factory default GYRO / PID config is 8KHz / 2KHz . There are reports that this may lead to possible instability and 4KHz / 4KHz is recommended.
+ - FCボードの仕様では、DSHOT600対応と謳っていますが、Type-L(BB1 24MHz)のESCを使用しているため、DSHOT300しか確実に対応していません。そのため、DSHOT600を適用した場合にはESCの制御信号がどれだけ正確なものとなるかは未知数です。これについての過去の議論は https://www.rcgroups.com/forums/showthread.php?3036325-Racerstar-Crazybee-F3-Ultimate-Micro-AIO-FC%21-1S-5A-BlheliS-Frsky-Flysky-OSD/page3 を参照してください。
+- 工場出荷時のデフォルトのジャイロ / PIDループ演算周波数は8KHz / 2KHzとなっています。ですがこれは不安定になる可能性があり、4KHz / 4KHz以下を推奨との報告がありますので、こちらも参考としてください。
 
 
 Betaflight 3.3.X(工場出荷時)の具体的な情報：
