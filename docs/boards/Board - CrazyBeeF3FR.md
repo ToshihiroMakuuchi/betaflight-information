@@ -2,11 +2,12 @@
 ![CrazyBee F3 FR front](images/CrazyBeeF3FRtop.jpg)
 ![CrazyBee F3 FR back](images/CrazyBeeF3FRbottom.jpg)
 
-## 説明
+## FCボードの説明
 CrazyBee F3 フライトコントローラーは、1S専用TinyWhoop向けブラシレスレーシングドローン用の高集積FCボードです。
 世界で初めて、4in1タイプ受信機とESC/OSD/電流計を内蔵した小型ブラシレスフライトコントローラーと言われています。
+URUAV UR65(FrSky)に搭載されたが最初となり、リプレースパーツとしてHappymodelが基板単体で発売しました。
 
-## MCU, センサー類と機能について
+## MCU・センサー類と機能について
 
 ### ハードウェアと機能
 
