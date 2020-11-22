@@ -6,9 +6,9 @@
 CrazyBee F3 フライトコントローラーは、1S専用TinyWhoop向けブラシレスレーシングドローン用の高集積FCボードです。
 世界で初めて、4in1タイプ受信機とESC/OSD/電流計を内蔵した小型ブラシレスフライトコントローラーと言われています。
 
-## MCU, Sensors and Features
+## MCU, センサー類と機能について
 
-### Hardware and Features
+### ハードウェアと機能
 
   - MCU: STM32F303CCT6
   - IMU: MPU6000 (SPI) 
@@ -25,7 +25,7 @@ CrazyBee F3 フライトコントローラーは、1S専用TinyWhoop向けブラ
   - Beeper output: 2-pin, soldering pad
   - 4 Rx Indicating LEDs: 2 x red  and  2 x white
 
-## Resource mapping
+## リソースマッピング
 
 | Label                      | Pin | Timer  | DMA | Default     | Note                             |
 |----------------------------|------|-------|-----|-------------|----------------------------------|
