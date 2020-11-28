@@ -1,22 +1,54 @@
 # Betaflightの設定 (CrazyBee F3 FR 編)
+
+## セットアップ
+下記は、CrazyBee F3に特化したBetaflightでの説明を致します。
+2020年11月現在、CrazyBeeF3はF3チップ利用が故にBetaflight 4.0系でサポートが終了されています。そのため通常では最終バージョンであるBetaflight 4.0.6をご利用ください。
+ですが、有志の手によりF3チップでも利用可能なBetaflight 4.1.1 Performance Editionという機能制限版カスタムファームウェアが提供されています。これによりRPMフィルターなど最新の機能も利用可能です。今回は、そのファームウェアを用いた設定参考パラメータを展開致します。
+
 ![Betaflight 00](images/BF00.png)
+
+
+## FCボードの説明
+
 ![Betaflight 01](images/BF01m.png)
+
+
+
+
+
+
 ![Betaflight 02](images/BF02m.png)
+
 ![Betaflight 03](images/BF03m.png)
+
 ![Betaflight 04](images/BF04m.png)
+
 ![Betaflight 05-01](images/BF05-01m.png)
+
 ![Betaflight 05-02](images/BF05-02m.png)
+
 ![Betaflight 05-03](images/BF05-03m.png)
+
 ![Betaflight 06](images/BF06m.png)
+
 ![Betaflight 07](images/BF07m.png)
+
 ![Betaflight 08](images/BF08m.png)
+
 ![Betaflight 09](images/BF09m.png)
+
 ![Betaflight 10](images/BF10m.png)
+
 ![Betaflight 11](images/BF11m.png)
+
 ![Betaflight 12](images/BF12m.png)
+
 ![Betaflight 13](images/BF13m.png)
+
 ![Betaflight 14](images/BF14m.png)
+
 ![Betaflight 15](images/BF15m.png)
+
 ![Betaflight 16](images/BF16m.png)
 
 
