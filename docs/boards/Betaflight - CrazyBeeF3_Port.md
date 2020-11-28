@@ -13,6 +13,10 @@ OSD上でVTX周波数調整が可能な【TBS SmartAudio】機能を使用した
 | UART3   | 無効         | 無効         | 無効／AUTO       | 無効／AUTO   | VTX (TBS SmartAudio) |  
 
 
+CrazyBee F3 Ver1.1以降は基板デザインの変更がなされ、外付け受信機をSBUSにて接続可能となりました。詳細は下記をご確認ください。
+   * [外付け受信機の設定方法](HowtouseExternalrecevieronCrazybeeF3flightcontroller.pdf)
+
+
 ### メニュー
 Betaflight (詳細設定) の項目は以下の通りです。必要なページをお選びください：  
 
