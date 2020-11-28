@@ -23,6 +23,7 @@ OSD上でVTX周波数調整が可能な【TBS SmartAudio】機能を使用した
 周辺機器: VTX (TBS SmartAudio) AUTO
 
 
+Betaflight (詳細設定) の項目は以下の通りです。必要なページをお選びください：
 
 * [ポート](Betaflight%20-%20CrazyBeeF3_Port.md)
 * [基本設定](Betaflight%20-%20CrazyBeeF3_BaseSetting.md)
