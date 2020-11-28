@@ -15,8 +15,10 @@
 このボタンは、近々にマージされた最新の機能や追加モジュール、CLIコマンドでしか提供されないパラメータをバックアップすることができません。そのためCLI コマンドプロンプトを利用し【diff all】もしくは【dump all】で出力された文字列をメモ帳などにコピーして、設定のバックアップを行ってください。
 
 
-Betaflight (詳細設定) の項目は以下の通りです。必要なページをお選びください：
+### メニュー
+Betaflight (詳細設定) の項目は以下の通りです。必要なページをお選びください：  
 
+* [セットアップ](Betaflight%20-%20CrazyBeeF3FR.md)
 * [ポート](Betaflight%20-%20CrazyBeeF3_Port.md)
 * [基本設定](Betaflight%20-%20CrazyBeeF3_BaseSetting.md)
 * [電源・バッテリー](Betaflight%20-%20CrazyBeeF3_Battery.md)
