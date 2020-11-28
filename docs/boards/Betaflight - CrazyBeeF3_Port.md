@@ -13,7 +13,7 @@ OSD上でVTX周波数調整が可能な【TBS SmartAudio】機能を使用した
 | UART3   | 無効         | 無効         | 無効／AUTO       | 無効／AUTO   | VTX (TBS SmartAudio) |  
 
 
-
+### メニュー
 Betaflight (詳細設定) の項目は以下の通りです。必要なページをお選びください：  
 
 * [ポート](Betaflight%20-%20CrazyBeeF3_Port.md)
