@@ -1,6 +1,24 @@
-# CrazyBee F3 FR
-![CrazyBee F3 FR front](images/CrazyBeeF3FRtop.jpg)
-![CrazyBee F3 FR back](images/CrazyBeeF3FRbottom.jpg)
+# Betaflightの設定 (CrazyBee F3 FR 編)
+![Betaflight 00](images/BF00.png)
+![Betaflight 01](images/BF01m.png)
+![Betaflight 02](images/BF02m.png)
+![Betaflight 03](images/BF03m.png)
+![Betaflight 04](images/BF04m.png)
+![Betaflight 05-01](images/BF05-01m.png)
+![Betaflight 05-02](images/BF05-02m.png)
+![Betaflight 05-03](images/BF05-03m.png)
+![Betaflight 06](images/BF06m.png)
+![Betaflight 07](images/BF07m.png)
+![Betaflight 08](images/BF08m.png)
+![Betaflight 09](images/BF09m.png)
+![Betaflight 10](images/BF10m.png)
+![Betaflight 11](images/BF11m.png)
+![Betaflight 12](images/BF12m.png)
+![Betaflight 13](images/BF13m.png)
+![Betaflight 14](images/BF14m.png)
+![Betaflight 15](images/BF15m.png)
+![Betaflight 16](images/BF16m.png)
+
 
 ## FCボードの説明
 CrazyBee F3 フライトコントローラーは、1S専用TinyWhoop向けブラシレスレーシングドローン用の高集積FCボードです。
