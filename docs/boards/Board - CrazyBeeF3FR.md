@@ -28,7 +28,7 @@ URUAV UR65(FrSky)に搭載されたが最初となり、リプレースパーツ
 
 ## リソースマッピング
 
-| Label                      | Pin | Timer  | DMA | Default     | Note                             |
+| Label                      | Pin  | Timer | DMA | Default     | Note                             |
 |----------------------------|------|-------|-----|-------------|----------------------------------|
 | MPU6000_INT_EXTI           | PC13 |       |     |             |                                  |
 | MPU6000_CS_PIN             | PA4  |       |     |             |    SPI1                          |
@@ -87,6 +87,6 @@ FRSKY バージョン:
 
 
 ## その他の情報
-   ユーザマニュアル: http://img.banggood.com/file/products/20180209021414Crazybeef3.pdf
+   ユーザマニュアル: http://img.banggood.com/file/products/20180209021414Crazybeef3.pdf  
    開発元サイト Happymodel: http://www.happymodel.cn/index.php/tag/crazybeef3/
 
