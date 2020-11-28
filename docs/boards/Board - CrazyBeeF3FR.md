@@ -2,6 +2,7 @@
 ![CrazyBee F3 FR front](images/CrazyBeeF3FRtop.jpg)
 ![CrazyBee F3 FR back](images/CrazyBeeF3FRbottom.jpg)
 
+
 ## FCボードの説明
 CrazyBee F3 フライトコントローラーは、1S専用TinyWhoop向けブラシレスレーシングドローン用の高集積FCボードです。
 世界で初めて、4in1タイプ受信機とESC/OSD/電流計を内蔵した小型ブラシレスフライトコントローラーと言われています。
@@ -10,6 +11,28 @@ URUAV UR65(FrSky)に搭載されたが最初となり、リプレースパーツ
 * Ver1.0: 初期モデルとしてURUAV UR65に搭載される。初期モデルはRaceStar社よりリプレース基板として一度発売。このモデルは外部受信機が搭載できなかった。
 * Ver1.1: 基板デザインの変更でUART3として外部受信機搭載可能に。Eachine US65/UK65はこのバージョンで初期出荷リリース。
 * Ver1.2: マイナーバージョンアップ。こちらが安定版として提供される。開発元のHappymodel社が補用品として販売開始。
+
+
+## Betaflightの設定
+Betaflight (詳細設定) の項目は以下の通りです。必要なページをお選びください：  
+
+* [セットアップ](Betaflight%20-%20CrazyBeeF3FR.md)
+* [ポート](Betaflight%20-%20CrazyBeeF3_Port.md)
+* [基本設定](Betaflight%20-%20CrazyBeeF3_BaseSetting.md)
+* [電源・バッテリー](Betaflight%20-%20CrazyBeeF3_Battery.md)
+* [フェイルセーフ](Betaflight%20-%20CrazyBeeF3_failsafe.md)
+* [PIDチューニング](Betaflight%20-%20CrazyBeeF3_PID.md)
+* [受信機](Betaflight%20-%20CrazyBeeF3_Reciever.md)
+* [モード](Betaflight%20-%20CrazyBeeF3_Mode.md)
+* [調整](Betaflight%20-%20CrazyBeeF3_Addjust.md)
+* [サーボ](Betaflight%20-%20CrazyBeeF3_Servo.md)
+* [モーター](Betaflight%20-%20CrazyBeeF3_Motor.md)
+* [OSD](Betaflight%20-%20CrazyBeeF3_OSD.md)
+* [映像伝送用送信機](Betaflight%20-%20CrazyBeeF3_VTX.md)
+* [センサー](Betaflight%20-%20CrazyBeeF3_Sensor.md)
+* [テザーロギング](Betaflight%20-%20CrazyBeeF3_logging.md)
+* [ブラックボックス](Betaflight%20-%20CrazyBeeF3_Blackbox.md)
+* [CLI コマンドライン](Betaflight%20-%20CrazyBeeF3_CLI.md)
 
 
 ## MCU・センサー類と機能について
@@ -30,6 +53,7 @@ URUAV UR65(FrSky)に搭載されたが最初となり、リプレースパーツ
   - ESCコネクタ: 3-pin, PicoBlade 1.25mm pitch
   - ブザー出力: 2-pin, soldering pad
   - オンボードLED: 4LED (受信機用 赤x2 白x2)
+
 
 ## リソースマッピング
 
@@ -65,6 +89,7 @@ URUAV UR65(FrSky)に搭載されたが最初となり、リプレースパーツ
 ## メーカー・販売店
 
 https://www.banggood.com/Racerstar-Crazybee-F3-Flight-Controller-4-IN-1-5A-1S-Blheli_S-ESC-Compatible-Frsky-D8-Receiver-p-1262972.html
+
 
 ## デザイナー情報
 
