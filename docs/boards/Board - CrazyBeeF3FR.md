@@ -89,4 +89,5 @@ FRSKY バージョン:
 ## その他の情報
    ユーザマニュアル: http://img.banggood.com/file/products/20180209021414Crazybeef3.pdf  
    開発元サイト Happymodel: http://www.happymodel.cn/index.php/tag/crazybeef3/
+   [外付け受信機の設定方法](HowtouseExternalrecevieronCrazybeeF3flightcontroller.pdf)
 
