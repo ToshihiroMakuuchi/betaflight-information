@@ -1,11 +1,11 @@
 # PIDチューニング
 
 
-![Betaflight 05-01](images/BF05-01m.png)
+![Betaflight 05-01](images/BF05-01.png)
 
-![Betaflight 05-02](images/BF05-02m.png)
+![Betaflight 05-02](images/BF05-02.png)
 
-![Betaflight 05-03](images/BF05-03m.png)
+![Betaflight 05-03](images/BF05-03.png)
 
 
 ### ああああ
