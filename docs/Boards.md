@@ -6,19 +6,19 @@ Betaflight の現行バージョンの利用をご希望の場合は、256KB の
 
 推奨されるボードのコアセットは以下の通りです：
 
-* [CrazyBee F4 FR Pro](boards/Board%20-%20CrazyBeeF4FRPro.md)
-* [CrazyBee F4 FS Pro](boards/Board%20-%20CrazyBeeF4FSPro.md)
-* [CrazyBee F4 DX Pro](boards/Board%20-%20CrazyBeeF4DXPro.md)
+* [CrazyBee F4 FR Pro](boards/Board%20-%20CrazyBeeF4FRPro.md) ※未編集
+* [CrazyBee F4 FS Pro](boards/Board%20-%20CrazyBeeF4FSPro.md) ※未編集
+* [CrazyBee F4 DX Pro](boards/Board%20-%20CrazyBeeF4DXPro.md) ※未編集
 
 
 レガシーボードのコアセットは以下の通りです：
 
-* [CrazyBee F3 FR](boards/Board%20-%20CrazyBeeF3FR.md)
-* [CrazyBee F3 FS](boards/Board%20-%20CrazyBeeF3FS.md)
-* [Seriously Pro SPRacingF3](boards/Board%20-%20SPRacingF3.md)
-* [Seriously Pro SPRacingF3Mini](boards/Board%20-%20SPRacingF3MINI.md)
-* [Seriously Pro SPRacingF3EVO](boards/Board%20-%20SPRacingF3EVO.md)
-* [Seriously Pro SPRacingF3NEO](boards/Board%20-%20SPRacingF3NEO.md)
+* [CrazyBee F3 FR](boards/Board%20-%20CrazyBeeF3FR.md) ※メイン 今ここｗ
+* [CrazyBee F3 FS](boards/Board%20-%20CrazyBeeF3FS.md) ※未編集
+* [Seriously Pro SPRacingF3](boards/Board%20-%20SPRacingF3.md) ※未編集
+* [Seriously Pro SPRacingF3Mini](boards/Board%20-%20SPRacingF3MINI.md) ※未編集
+* [Seriously Pro SPRacingF3EVO](boards/Board%20-%20SPRacingF3EVO.md) ※未編集
+* [Seriously Pro SPRacingF3NEO](boards/Board%20-%20SPRacingF3NEO.md) ※未編集
 
 
 備考: CPU の EEPROM 容量が 256KB 未満のボードを使用している場合、使用可能な機能が制限される可能性があります。
