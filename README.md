@@ -10,7 +10,7 @@
 * [JESC Configurator](https://github.com/jflight-public/jesc-configurator/releases)
 
 
-# 参考ブログ等
+## 参考ブログ等
 052.jp 井上さん
 * [無料ESCファームウェア BLHeli_M を使用する方法](https://052.jp/howto-blheli_m-install-guide/)
 * [古いF3の機体をRPMフィルターとJESC48KHzで蘇らせる](https://052.jp/use-rpm-filter-and-jesc48khz-in-f3-quad/)
