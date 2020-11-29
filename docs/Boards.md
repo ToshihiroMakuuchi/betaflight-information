@@ -13,7 +13,7 @@ Betaflight の現行バージョンの利用をご希望の場合は、256KB の
 
 レガシーボードのコアセットは以下の通りです：
 
-* [CrazyBee F3 FR](boards/Board%20-%20CrazyBeeF3FR.md) ※メイン 今ここｗ
+* [CrazyBee F3 FR](boards/Board%20-%20CrazyBeeF3FR.md) ※2020/11/29 絶賛作成中！
 * [CrazyBee F3 FS](boards/Board%20-%20CrazyBeeF3FS.md) ※未編集
 * [Seriously Pro SPRacingF3](boards/Board%20-%20SPRacingF3.md) ※未編集
 * [Seriously Pro SPRacingF3Mini](boards/Board%20-%20SPRacingF3MINI.md) ※未編集
