@@ -30,3 +30,25 @@
 * 【落下】通常はこちらを選択ください  
 ※ 選択肢として、着陸やGPSレスキューの選択肢もありますが、65mm機体とはいえフェイルセーフ発動時に高度と加速がある場合、着陸を選択しても安全に着陸することはほぼ不可能となります。そのためまずは回転するプロペラによる事故を防止すること、如何に早く機体を安全に回収するかを想定し、通常は【落下】を選択します。またGPSモジュールの搭載ができませんので、この2つの設定は割愛致します。
 
+
+### メニュー
+Betaflight (詳細設定) の項目は以下の通りです。必要なページをお選びください：  
+
+* [セットアップ](Betaflight%20-%20CrazyBeeF3FR.md)
+* [ポート](Betaflight%20-%20CrazyBeeF3_Port.md)
+* [基本設定](Betaflight%20-%20CrazyBeeF3_BaseSetting.md)
+* [電源・バッテリー](Betaflight%20-%20CrazyBeeF3_Battery.md)
+* [フェイルセーフ](Betaflight%20-%20CrazyBeeF3_failsafe.md)
+* [PIDチューニング](Betaflight%20-%20CrazyBeeF3_PID.md)
+* [受信機](Betaflight%20-%20CrazyBeeF3_Reciever.md)
+* [モード](Betaflight%20-%20CrazyBeeF3_Mode.md)
+* [調整](Betaflight%20-%20CrazyBeeF3_Addjust.md)
+* [サーボ](Betaflight%20-%20CrazyBeeF3_Servo.md)
+* [モーター](Betaflight%20-%20CrazyBeeF3_Motor.md)
+* [OSD](Betaflight%20-%20CrazyBeeF3_OSD.md)
+* [映像伝送用送信機](Betaflight%20-%20CrazyBeeF3_VTX.md)
+* [センサー](Betaflight%20-%20CrazyBeeF3_Sensor.md)
+* [テザーロギング](Betaflight%20-%20CrazyBeeF3_logging.md)
+* [ブラックボックス](Betaflight%20-%20CrazyBeeF3_Blackbox.md)
+* [CLI コマンドライン](Betaflight%20-%20CrazyBeeF3_CLI.md)
+
