@@ -15,8 +15,7 @@
 ### ESC / モーター機能
 * デジタル処理となるDSHOTプロトコルが選択できます。RPMフィルターを用いる場合はDSHOTを選択してください。Betaflight 4.0.6を使用する場合は【DSHOT300】[BetaFlight Performance Edition F3](https://github.com/joelucid/betaflight/releases)を使用する場合は【DSHOT150】を選択するとバランスが良いとされています。機体やモーター構成との兼ね合いで前後調整ください。
 * 【MOTOR_STOP】はアーム時にプロペラを回すか回さないかを選択します。好みでお選びください。
-* 【双方向DSHOT】は[BetaFlight Performance Edition F3](https://github.com/joelucid/betaflight/releases)を利用する際は、是非お奨めの設定となります。[BLHeli_M(JazzMaverick)](https://github.com/Asizon/blheli-configurator/releases/)
-、もしくは[JESC](https://github.com/jflight-public/jesc-configurator/releases)ファームウェアを別途インストールしてください。
+* 【双方向DSHOT】は[BetaFlight Performance Edition F3](https://github.com/joelucid/betaflight/releases)を利用する際は、是非お奨めの設定となります。[BLHeli_M(JazzMaverick) ESCファームウェア](https://github.com/Asizon/blheli-configurator/releases/)、もしくは[JESC ESCファームウェア](https://github.com/jflight-public/jesc-configurator/releases)を別途インストールしてください。
 * 【モーター極数】はブラシレスモーター内のモーターベルに付随する磁石の数です。Happymodel 0603、0802モーターは【12】となります。
 * 【モーターアイドルスロットル値】はスロットル最低値におけるプロペラのアイドリング強度となります。Betaflightのバージョン、プロトコル、双方向DSHOT等の設定により前後しますが、上記の設定とする場合には0603モーターの場合は6.4～6.6程度で調整してみてください。
 
