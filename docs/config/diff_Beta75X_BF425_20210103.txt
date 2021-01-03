@@ -8,7 +8,7 @@ batch start
 board_name OMNIBUSF4SD
 manufacturer_id AIRB
 
-# name: JJ1EXU
+# name: BETA75X
 
 # feature
 feature -AIRMODE
@@ -79,7 +79,7 @@ vtxtable band 2 BOSCAM_B B FACTORY 5733 5752 5771 5790 5809 5828 5847 5866
 vtxtable band 3 BOSCAM_E E FACTORY 5705 5685 5665 5645 5885 5905 5925 5945
 vtxtable band 4 FATSHARK F FACTORY 5740 5760 5780 5800 5820 5840 5860 5880
 vtxtable band 5 RACEBAND R FACTORY 5658 5695 5732 5769 5806 5843 5880 5917
-vtxtable band 6 IMD6     I CUSTOM  5362 5399 5436 5473 5510 5547 5584 5621
+vtxtable band 6 LOWRACE  L CUSTOM  5362 5399 5436 5473 5510 5547 5584 5621
 vtxtable powerlevels 2
 vtxtable powervalues 0 1
 vtxtable powerlabels 25 200
@@ -124,7 +124,7 @@ set vtx_power = 2
 set vtx_freq = 5800
 set vcd_video_system = NTSC
 set gyro_1_align_yaw = 2700
-set name = JJ1EXU
+set name = BETA75X
 
 profile 1
 
