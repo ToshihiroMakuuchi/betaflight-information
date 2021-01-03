@@ -8,7 +8,7 @@ batch start
 board_name OMNIBUSF4SD
 manufacturer_id AIRB
 
-# name: JJ1EXU
+# name: BETA75X
 
 # feature
 feature -AIRMODE
