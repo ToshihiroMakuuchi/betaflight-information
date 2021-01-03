@@ -79,8 +79,8 @@
                 ]
             },
             {
-                "name": "IMD6    ",
-                "letter": "I",
+                "name": "LowRace",
+                "letter": "L",
                 "is_factory_band": false,
                 "frequencies": [
                     5362,
