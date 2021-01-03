@@ -493,7 +493,7 @@ vtxtable band 2 BOSCAM_B B FACTORY 5733 5752 5771 5790 5809 5828 5847 5866
 vtxtable band 3 BOSCAM_E E FACTORY 5705 5685 5665 5645 5885 5905 5925 5945
 vtxtable band 4 FATSHARK F FACTORY 5740 5760 5780 5800 5820 5840 5860 5880
 vtxtable band 5 RACEBAND R FACTORY 5658 5695 5732 5769 5806 5843 5880 5917
-vtxtable band 6 LOWRACE  L CUSTOM  5362 5399 5436 5473 5510 5547 5584 5621
+vtxtable band 6 LOWRACE  L FACTORY 5362 5399 5436 5473 5510 5547 5584 5621
 vtxtable powerlevels 2
 vtxtable powervalues 0 1
 vtxtable powerlabels 25 200
@@ -558,7 +558,7 @@ set acc_hardware = AUTO
 set acc_lpf_hz = 10
 set acc_trim_pitch = 0
 set acc_trim_roll = 0
-set acc_calibration = -1,3,-89,1
+set acc_calibration = -3,-10,-137,1
 set align_mag = DEFAULT
 set mag_align_roll = 0
 set mag_align_pitch = 0
@@ -581,7 +581,7 @@ set baro_cf_vel = 985
 set mid_rc = 1500
 set min_check = 1000
 set max_check = 2000
-set rssi_channel = 0
+set rssi_channel = 16
 set rssi_src_frame_errors = OFF
 set rssi_scale = 100
 set rssi_offset = 0
@@ -827,9 +827,9 @@ set osd_logo_on_arming_duration = 5
 set osd_tim1 = 2560
 set osd_tim2 = 2561
 set osd_vbat_pos = 14720
-set osd_rssi_pos = 14745
+set osd_rssi_pos = 14746
 set osd_link_quality_pos = 234
-set osd_rssi_dbm_pos = 14713
+set osd_rssi_dbm_pos = 376
 set osd_tim_1_pos = 234
 set osd_tim_2_pos = 234
 set osd_remaining_time_estimate_pos = 234
@@ -838,13 +838,13 @@ set osd_anti_gravity_pos = 234
 set osd_g_force_pos = 234
 set osd_throttle_pos = 234
 set osd_vtx_channel_pos = 234
-set osd_crosshairs_pos = 14541
-set osd_ah_sbar_pos = 14542
-set osd_ah_pos = 14510
+set osd_crosshairs_pos = 14573
+set osd_ah_sbar_pos = 14574
+set osd_ah_pos = 174
 set osd_current_pos = 234
 set osd_mah_drawn_pos = 234
 set osd_motor_diag_pos = 234
-set osd_craft_name_pos = 14732
+set osd_craft_name_pos = 14731
 set osd_display_name_pos = 490
 set osd_gps_speed_pos = 234
 set osd_gps_lon_pos = 234
@@ -861,7 +861,7 @@ set osd_pid_yaw_pos = 234
 set osd_debug_pos = 234
 set osd_power_pos = 234
 set osd_pidrate_profile_pos = 234
-set osd_warnings_pos = 14665
+set osd_warnings_pos = 14697
 set osd_avg_cell_voltage_pos = 14688
 set osd_pit_ang_pos = 234
 set osd_rol_ang_pos = 234
@@ -893,7 +893,7 @@ set osd_stat_max_spd = ON
 set osd_stat_max_dist = OFF
 set osd_stat_min_batt = ON
 set osd_stat_endbatt = OFF
-set osd_stat_battery = OFF
+set osd_stat_battery = ON
 set osd_stat_min_rssi = ON
 set osd_stat_max_curr = ON
 set osd_stat_used_mah = ON
@@ -907,7 +907,7 @@ set osd_stat_min_link_quality = OFF
 set osd_stat_flight_dist = OFF
 set osd_stat_max_fft = OFF
 set osd_stat_total_flights = OFF
-set osd_stat_total_time = OFF
+set osd_stat_total_time = ON
 set osd_stat_total_dist = OFF
 set osd_stat_min_rssi_dbm = OFF
 set osd_profile = 1
@@ -1313,8 +1313,8 @@ rateprofile 0
 
 # rateprofile 0
 set rateprofile_name = -
-set thr_mid = 0
-set thr_expo = 25
+set thr_mid = 37
+set thr_expo = 40
 set rates_type = BETAFLIGHT
 set roll_rc_rate = 148
 set pitch_rc_rate = 145
@@ -1338,18 +1338,18 @@ rateprofile 1
 
 # rateprofile 1
 set rateprofile_name = -
-set thr_mid = 0
-set thr_expo = 25
+set thr_mid = 42
+set thr_expo = 66
 set rates_type = BETAFLIGHT
-set roll_rc_rate = 110
-set pitch_rc_rate = 110
-set yaw_rc_rate = 147
+set roll_rc_rate = 90
+set pitch_rc_rate = 90
+set yaw_rc_rate = 125
 set roll_expo = 30
 set pitch_expo = 30
 set yaw_expo = 15
 set roll_srate = 44
 set pitch_srate = 44
-set yaw_srate = 51
+set yaw_srate = 45
 set tpa_rate = 50
 set tpa_breakpoint = 1550
 set tpa_mode = D
@@ -1460,7 +1460,7 @@ set pitch_rate_limit = 1998
 set yaw_rate_limit = 1998
 
 # restore original rateprofile selection
-rateprofile 0
+rateprofile 1
 
 # save configuration
 save
